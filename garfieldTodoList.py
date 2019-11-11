@@ -336,6 +336,8 @@ while not programEnded:  # While_program_is_running
                     displayTodoList(status=content[0])
             else:
                 displayTodoList()
+        elif "-help" in command:
+            showSomeHelp()
         elif "-add" in command:
             content = re.findall('"(.*?)"', command)
             if len(content) == 2:
