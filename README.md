@@ -1,7 +1,7 @@
 
 ### Project name: Garifeld C.L.I Todo
 ##### Developed by: Garfield with <3
-### Chart: https://www.lucidchart.com/invitations/accept/11e44fad-071d-4708-9c36-6f8b0cee9938
+###### Chart: https://www.lucidchart.com/invitations/accept/11e44fad-071d-4708-9c36-6f8b0cee9938
 
 
 ### Objectives 🥇
