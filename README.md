@@ -61,17 +61,29 @@ Learn how to use Fire to C.R.U.D. our resources.
 ### Command list
 
 ==========================================================  ==========================
+
 -h, --help                                                  show this message
+
 -list, --list "custom status" "custom_id"                   show Todo list.
+
 -add, --add "TODO CONTENT" "PROJECT ID"                     add Todo to Todo list.
+
 -del, --del "Todo ID"                                       remove todo from todo list
+
 -mod, --mod "Todo ID" "status"                              modify todo status
+
 -create, --create "Project Name"                            create a new project
+
 -assignTo, --assignTo "Todo ID" "USER ID"                   assign a Todo to a user
+
 -userList, --userList                                       See current user list
+
 -projectList, --projectList                                 See current Project list
+
 -assignToProject, --assignToProject "USER ID" "PROJECT ID"  Add a user to project
+
 -who_to_fire, --who_to_fire                                 Show a list of lazy users!
+
 ==========================================================  ==========================
 
 
